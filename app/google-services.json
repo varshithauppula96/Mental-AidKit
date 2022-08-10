@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41773898266",
+    "project_id": "mentalaidkit",
+    "storage_bucket": "mentalaidkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41773898266:android:271278c0748d63ec4e0fa3",
+        "android_client_info": {
+          "package_name": "com.example.mentalaidkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41773898266-71i48l3pcvmc8qfdbbe1j9evvked2gbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JRsYFvIZUi2ApOx8agL4DeDFq3UZ7oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41773898266-71i48l3pcvmc8qfdbbe1j9evvked2gbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
