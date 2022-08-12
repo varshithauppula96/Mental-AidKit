@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_breathe.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_contacts.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_emergency.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_goals.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_habit.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_helpline.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_home.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/drawable/ic_todo.xml" value="0.142" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_home_screen.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_startlogin.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/activity_wallpaper.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/defaultwallpaperlayout.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/ic_home.xml" value="0.10562310030395136" />
+        <entry key="..\:/Users/Varshitha uppula/AndroidStudioProjects/MentalAidKit/app/src/main/res/layout/wallpaperlayout.xml" value="0.1" />
       </map>
     </option>
   </component>
